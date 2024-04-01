@@ -1,6 +1,6 @@
 # audio-rec-algo
 
-A comprehensive machine learning pipeline that satisfies the patterned steps of a classic machine learning project on "Music Dataset: Lyrics and Metadata from 1950 to 2019".
+A comprehensive machine learning pipeline that satisfies the patterned steps of a classic machine learning project on a rendition of "Music Dataset: Lyrics and Metadata from 1950 to 2019".
 
 <div style="text-align:center">
   <img src="images/Cover.jpg">
